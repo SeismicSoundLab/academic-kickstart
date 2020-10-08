@@ -16,3 +16,5 @@ image:
 movie_url: "https://player.vimeo.com/video/379787732"
 
 ---
+
+DETAILED MOVIE DESCRIPTION GOES HERE

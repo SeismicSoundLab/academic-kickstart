@@ -18,7 +18,7 @@ git clone https://github.com/seismicsoundlab/academic-kickstart.git My_Website
 Step 3 - Clone SeismicSoundLab.github.io:
 git clone https://github.com/SeismicSoundLab/SeismicSoundLab.github.io.git
 
-Step 4 - Next we want to sync My_Website/public/ with seismicsoundlab.github.io/ That way when we push public, it will go to the github.io site. This is done using git submodules:
+Step 4 - Next we want to sync My_Website/public/ with seismicsoundlab.github.io/ That way when we push to public, it will go to the github.io site. This is done using git submodules:
 cd My_Website
 git submodule add -b master https://github.com/SeismicSoundLab/SeismicSoundLab.github.io.git public
 git commit -am "Add submodule public"
