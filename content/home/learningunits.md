@@ -26,16 +26,48 @@ subtitle = "Add a description for what this section is about"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Sonification"
+    tag = "Sonification"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Earthquakes"
+    tag = "Earthquakes"
+    
+  [[content.filter_button]]
+    name = "Waves"
+    tag = "Waves"
+    
+  # [[content.filter_button]]
+  #   name = "Tectonics"
+  #   tag = "Tectonics"
+    
+  [[content.filter_button]]
+    name = "Volcanoes"
+    tag = "Volcanoes"
+    
+  [[content.filter_button]]
+    name = "Geysers"
+    tag = "Geysers"
+    
+  [[content.filter_button]]
+    name = "Fracking"
+    tag = "Fracking"
+    
+  # [[content.filter_button]]
+  #   name = "Human-induced"
+  #   tag = "Human-induced"
+    
+  [[content.filter_button]]
+    name = "Climate"
+    tag = "Climate"
+      
+  # [[content.filter_button]]
+  #   name = "Hurricanes"
+  #   tag = "Hurricanes"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -45,7 +77,7 @@ subtitle = "Add a description for what this section is about"
   view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.

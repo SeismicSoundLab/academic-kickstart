@@ -76,6 +76,12 @@
           {{ $link = $item.Params.external_link }}
           {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
+        
+        <!-- JBR 10/9/2020 -->
+        {{ if $item.Params.internal_link }}
+          {{ $link = $item.Params.internal_link }}
+          {{ $target = "rel=\"noopener\"" }}
+        {{ end }}
 
         {{ if eq $st.Params.design.view 1 }}
           {{ partial "portfolio_li_list" (dict "item" $item) }}

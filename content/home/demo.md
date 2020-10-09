@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Seismic Sound Lab"
-subtitle = ""
+subtitle = "Welcome to **Seismic Sound Lab** at the Lamont Doherty Earth Observatory"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -44,10 +44,10 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "font-size: 1.3rem;"
  
  # CSS class.
  css_class = ""
 +++
 
-Welcome to **Seismic Sound Lab** at the Lamont Doherty Earth Observatory
+<!-- Welcome to **Seismic Sound Lab** at the Lamont Doherty Earth Observatory -->
