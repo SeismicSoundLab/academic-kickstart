@@ -1,6 +1,6 @@
 ---
 # The title displays on the card
-title: Kilauea, HI 2018
+title: "Kilauea, HI (2000-2010)"
 # The summary displays on the card
 summary: "SHORT DESCRIPTION"
 
@@ -12,11 +12,11 @@ date: "2020-10-10T00:00:00Z"
 # external_link: http://example.org
 # internal_link:
 
-movie_url: "https://player.vimeo.com/video/368839934"
+movie_url: "https://player.vimeo.com/video/288805184"
 
 ---
 
-{{< vimeo 368839934 >}}
+{{< vimeo 288805184 >}}
 
 \
 DETAILED MOVIE DESCRIPTION GOES HERE

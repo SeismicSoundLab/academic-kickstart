@@ -1,22 +1,22 @@
 ---
 # The title displays on the card
-title: Kilauea, HI 2018
+title: "Ground Motions for Haiti (M7.0) and Tohoku (M9.0)"
 # The summary displays on the card
 summary: "SHORT DESCRIPTION"
 
 tags:
-- Volcanoes
+- Catalog Movies
 date: "2020-10-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: http://example.org
 # internal_link:
 
-movie_url: "https://player.vimeo.com/video/368839934"
+movie_url: "https://player.vimeo.com/video/187740441"
 
 ---
 
-{{< vimeo 368839934 >}}
+{{< vimeo 187740441 >}}
 
 \
 DETAILED MOVIE DESCRIPTION GOES HERE
