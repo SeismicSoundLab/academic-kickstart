@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Seismic Sound Lab
+title: Ben Holtzman
 
 # Username (this should match the folder name)
 authors:
 - ben
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: 
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-BEN DISCRIPTION COULD GO HERE
+BEN DESCRIPTION COULD GO HERE

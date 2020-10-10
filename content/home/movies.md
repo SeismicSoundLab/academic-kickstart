@@ -25,17 +25,41 @@ subtitle = ""
     name = "All"
     tag = "*"
   
-  [[content.filter_button]]
-    name = "Sonification"
-    tag = "Sonification"
+  # [[content.filter_button]]
+  #   name = "Sonification"
+  #   tag = "Sonification"
   
   [[content.filter_button]]
-    name = "Waves"
-    tag = "Waves"
+    name = "Wave Propagation"
+    tag = "Wave Propagation"
+    
+  # [[content.filter_button]]
+  #   name = "Geysers"
+  #   tag = "Geysers"
     
   [[content.filter_button]]
-    name = "Geysers"
-    tag = "Geysers"
+    name = "Hurricanes"
+    tag = "Hurricanes"
+    
+  [[content.filter_button]]
+    name = "Climate"
+    tag = "Climate"
+    
+  [[content.filter_button]]
+    name = "Earthquake Source"
+    tag = "Earthquake Source"
+    
+  [[content.filter_button]]
+    name = "Catalog Movies"
+    tag = "Catalog Movies"
+    
+  [[content.filter_button]]
+    name = "Energy"
+    tag = "Energy"
+    
+  [[content.filter_button]]
+    name = "Plate Tectonics"
+    tag = "Plate Tectonics"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
