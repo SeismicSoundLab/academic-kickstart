@@ -37,9 +37,9 @@ subtitle = ""
   #   name = "Geysers"
   #   tag = "Geysers"
     
-  [[content.filter_button]]
-    name = "Hurricanes"
-    tag = "Hurricanes"
+  # [[content.filter_button]]
+  #   name = "Hurricanes"
+  #   tag = "Hurricanes"
     
   [[content.filter_button]]
     name = "Climate"

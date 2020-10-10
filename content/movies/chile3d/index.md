@@ -6,7 +6,6 @@ summary: "SHORT DESCRIPTION"
 
 tags:
 - Catalog Movies
-- Energy
 date: "2020-10-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

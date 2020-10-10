@@ -5,7 +5,7 @@ title: "Acoustic Emissions"
 summary: "SHORT DESCRIPTION"
 
 tags:
-- Sounds
+- Earthquake Source
 date: "2020-10-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

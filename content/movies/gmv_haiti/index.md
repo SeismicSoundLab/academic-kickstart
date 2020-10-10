@@ -5,7 +5,7 @@ title: "Ground Motions from Below: Haiti M7.0"
 summary: "SHORT DESCRIPTION"
 
 tags:
-- Catalog Movies
+- Wave Propagation
 date: "2020-10-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

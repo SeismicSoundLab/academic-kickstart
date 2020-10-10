@@ -5,7 +5,7 @@ title: "Ground Motions for Haiti (M7.0) and Tohoku (M9.0)"
 summary: "SHORT DESCRIPTION"
 
 tags:
-- Catalog Movies
+- Wave Propagation
 date: "2020-10-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
