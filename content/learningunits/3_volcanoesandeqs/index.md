@@ -6,7 +6,7 @@ tags:
 - Sonification
 - Volcanoes
 - Kilauea
-date: "2016-04-27T00:00:00Z"
+date: "2020-10-16T04:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

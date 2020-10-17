@@ -19,8 +19,8 @@ movie_url: "https://player.vimeo.com/video/226458465"
 {{< vimeo 226458465 >}}
 
 \
-DETAILED MOVIE DESCRIPTION GOES HERE
+Seismic wave field contorted by cold fast slabs and warm slow plumes... Made by Simon Stahler and Tarje Nissen Meyer, using their code AXISEM (no sound). 
+[seis.earth.ox.ac.uk/axisem/](http://seis.earth.ox.ac.uk/axisem/)
 
 ## Related Learning Units
 * [Listening to Earthquakes](../../learningunits/1_primer/)
-* [NAME OF UNIT](relative/path/to/unit)
