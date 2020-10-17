@@ -19,8 +19,8 @@ movie_url: "https://player.vimeo.com/video/288805184"
 {{< vimeo 288805184 >}}
 
 \
-DETAILED MOVIE DESCRIPTION GOES HERE
+This movie is a work in progress!
+10 years of data from Kilauea volcano, from 2000-2010. We produced this (collaboration with Leif Karlstrom) about a week before the huge eruptions of 2018 started!
 
 ## Related Learning Units
-* [Listening to Earthquakes](../../learningunits/1_primer/)
-* [NAME OF UNIT](relative/path/to/unit)
+* [Volcanoes and Earthquakes](../../learningunits/3_volcanoesandeqs/)

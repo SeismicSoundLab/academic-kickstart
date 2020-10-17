@@ -19,8 +19,7 @@ movie_url: "https://www.youtube.com/embed/UODyP9qCY_g"
 {{< youtube UODyP9qCY_g >}}
 
 \
-DETAILED MOVIE DESCRIPTION GOES HERE
+This is the sonorous recording of the first one shake of the Friuli's earthquake (north Italy). A Tricesimo's boy, Mario Garlatti, was pouring again a passage of the Pink Floyd from the turntable to the cassettes recorder. The microphone, remained on, it has recorded a dramatic sequence: the arm of the turntable that jumps, the noise provoked by the shake and the terror in the house.
 
 ## Related Learning Units
-* [Listening to Earthquakes](../../learningunits/1_primer/)
-* [NAME OF UNIT](relative/path/to/unit)
+* [Volcanoes and Earthquakes](../../learningunits/3_volcanoesandeqs/)

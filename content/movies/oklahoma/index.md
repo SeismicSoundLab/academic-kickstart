@@ -20,8 +20,6 @@ movie_url: "https://player.vimeo.com/video/186029718"
 {{< vimeo 186029718 >}}
 
 \
-DETAILED MOVIE DESCRIPTION GOES HERE
 
 ## Related Learning Units
-* [Listening to Earthquakes](../../learningunits/1_primer/)
-* [NAME OF UNIT](relative/path/to/unit)
+* [Human-induced earthquakes and Energy](../../learningunits/4_humaninducedeqs/)
