@@ -20,8 +20,8 @@ movie_url: "https://player.vimeo.com/video/259106314"
 {{< vimeo 259106314 >}}
 
 \
-DETAILED MOVIE DESCRIPTION GOES HERE
+Geysers catalog movies, before and after machine listening...
 
 ## Related Learning Units
-* [Listening to Earthquakes](../../learningunits/1_primer/)
-* [NAME OF UNIT](relative/path/to/unit)
+* [Human-induced earthquakes and Energy](../../learningunits/4_humaninducedeqs/)
+* [Geysers and Volcanoes: Scaling by Analogy](../../learningunits/5_geysers/)

@@ -19,8 +19,6 @@ movie_url: "https://player.vimeo.com/video/187203773"
 {{< vimeo 187203773 >}}
 
 \
-DETAILED MOVIE DESCRIPTION GOES HERE
 
 ## Related Learning Units
 * [Listening to Earthquakes](../../learningunits/1_primer/)
-* [NAME OF UNIT](relative/path/to/unit)

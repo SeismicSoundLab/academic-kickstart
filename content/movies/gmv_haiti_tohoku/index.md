@@ -19,8 +19,7 @@ movie_url: "https://player.vimeo.com/video/187740441"
 {{< vimeo 187740441 >}}
 
 \
-DETAILED MOVIE DESCRIPTION GOES HERE
+Magnitude 7.0 Haiti 2010, Magnitude 9.0 Tohoku 2011. Data from the Transportable Array (NSF Earthscope Project) from IRIS. Based on ground motion visualization originally by Chuck Ammon ([ds.iris.edu/ds/products/usarraygmv/](http://ds.iris.edu/ds/products/usarraygmv/)). Made in Processing by Martin Pratt.
 
 ## Related Learning Units
 * [Listening to Earthquakes](../../learningunits/1_primer/)
-* [NAME OF UNIT](relative/path/to/unit)

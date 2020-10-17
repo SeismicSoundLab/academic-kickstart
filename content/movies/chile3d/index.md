@@ -19,8 +19,7 @@ movie_url: "https://player.vimeo.com/video/236239313"
 {{< vimeo 236239313 >}}
 
 \
-DETAILED MOVIE DESCRIPTION GOES HERE
+This video is about Chile_biennale
 
 ## Related Learning Units
 * [Listening to Earthquakes](../../learningunits/1_primer/)
-* [NAME OF UNIT](relative/path/to/unit)

@@ -19,7 +19,7 @@ movie_url: "https://player.vimeo.com/video/226458580"
 {{< vimeo 226458580 >}}
 
 \
-Made by Simon Stahler and Tarje Nissen Meyer, using their code AXISEM (no sound). 
+Made by Simon Stahler and Tarje Nissen Meyer, using their code AXISEM (no sound).\ 
 [seis.earth.ox.ac.uk/axisem/](http://seis.earth.ox.ac.uk/axisem/)
 
 ## Related Learning Units
