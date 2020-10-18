@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Learning Units"
-subtitle = "Add a description for what this section is about"
+subtitle = "Questions explained with movies!"
 
 [content]
   # Page type to display. E.g. project.
