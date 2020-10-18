@@ -75,16 +75,16 @@ user_groups:
 ---
 
 We develop methods for translating data into sound and animations, to make movies about processes that are beyond our range of direct perception. Though we started with earthquakes, the lab activities have expanded well beyond "seismic" and "sound", but the name remains.
-// We use sounds and images generated from seismic data in various forms to convey the nature of earthquakes, seismic waves and other aspects of the physics of the Earth. 
 The lab is based at [LDEO](http://www.ldeo.columbia.edu/) and the [Computer Music Center](https://cmc.music.columbia.edu/). 
 For more info, see the companion site at [seismicsoundlab.org](http://www.seismicsoundlab.org/), with info on our SeismoDome program at the Hayden Planetarium in NYC.  
 Run by [Ben Holtzman](https://www.ldeo.columbia.edu/~benh/), an incomplete list of collaborators includes [Jason Candler](https://www.guarsh.com/), [Douglas Repetto](http://douglasrepetto.com), [Anna Barth](https://barthac.github.io/), [Leif Karlstrom](https://pages.uoregon.edu/leif/) and the [Volcano Listening Project](http://www.volcanolisteningproject.org/), [Matt Turk](https://sites.google.com/site/matthewturk/), [Josh Russell](https://jbrussell.github.io/), [Seth Cluett](https://sethcluett.com/), [Joachim Gossmann](http://musicweb2.ucsd.edu/~jo/#intro), and many others!   
 For more backstory, see our old site, “[Sounds of Seismology](http://www.ldeo.columbia.edu/res/pi/sounds-of-seismology/)“. 
 In this site, we assemble a subset of movies we have made, and some "learning units": movies assembled into short narratives to illustrate and provoke questions. In the near future, it will also have code examples to help teach our methods. 
-// # We work closely with Matt Turk, Joachim Gossmann and Nolan Lem, in the context of developing these sounds and movies for our ongoing “SeismoDome” show on earthquakes and seismology at the Hayden Planetarium, American Museum of Natural History, NYC.
 
-// # Ben and Jason built the first Sound Ring in October, 2006 for the Open House at the [Lamont Doherty Earth Observatory](http://www.ldeo.columbia.edu/), with the help of Vala Hjorleifdottir, Liz Starin, Meredith Nettles, Jim Gaherty, Art Lerner-Lam and others. 
+# We work closely with Matt Turk, Joachim Gossmann and Nolan Lem, in the context of developing these sounds and movies for our ongoing “SeismoDome” show on earthquakes and seismology at the Hayden Planetarium, American Museum of Natural History, NYC.
 
-// # We are currently developing versions of this exhibit for museums, and welcome any interest and collaboration in the incorporation of this approach in science education at any level. Please contact benh (at) ldeo.columbia.edu or jason (at) guarsh.com.
+# Ben and Jason built the first Sound Ring in October, 2006 for the Open House at the [Lamont Doherty Earth Observatory](http://www.ldeo.columbia.edu/), with the help of Vala Hjorleifdottir, Liz Starin, Meredith Nettles, Jim Gaherty, Art Lerner-Lam and others. 
 
-// # The contents of this website are copyrighted by Ben Holtzman and Jason Candler, 2006-present, except for contents created by others, as referenced within.
+# We are currently developing versions of this exhibit for museums, and welcome any interest and collaboration in the incorporation of this approach in science education at any level. Please contact benh (at) ldeo.columbia.edu or jason (at) guarsh.com.
+
+# The contents of this website are copyrighted by Ben Holtzman and Jason Candler, 2006-present, except for contents created by others, as referenced within.
