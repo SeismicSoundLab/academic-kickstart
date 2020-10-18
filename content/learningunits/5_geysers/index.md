@@ -33,15 +33,24 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-<!-- Insert vimeo video using its id -->
-{{< vimeo 215665951 >}}
+Geysers are hydrothermal features that episodically erupt liquid and vapor. The eruptions that we see at the surface are the culmination of a complex series of processes below the ground hidden from direct observation. But that doesn’t mean they are hidden entirely; we can monitor them with various sensors to record different aspects of the system. For example, a tilt meter can measure the inflation of the ground due to pressure build up before an eruption, and a seismometer can measure hydrothermal ‘tremor’, which tells us about the bubbling of the hot liquid.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Geysers are relatively rare but where they do occur, it is often in clusters, such as at Yellowstone National Park. The following video explores monitoring data from Lone Star Geyser in Yellowstone National Park, which was collected in 2010 and 2014.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+#(LONE STAR GEYSER VID)
+{{< vimeo 379787732 >}}
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Geysers are often thought of as smaller scale analogs to volcanoes. Their ‘plumbing systems’ are much shallower than those of volcanoes, and they erupt far more regularly. While there are some key differences between eruptions at geysers and volcanoes — e.g. water versus magma — both are driven by localized input of mass and energy at depth, and this gives rise to some similarities in behavior. In the following video we’ll be looking at ground deformation and gas emissions at Kilauea Volcano. Look out for comparisons with Lone Star’s behavior in the previous video.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+#(10 YR KILAUEA VID)
+{{< vimeo 288805184 >}}
+
+Did you notice the long term inflation of Kilauea's summit preceding the eruption? Like at Lone Star Geyser, this inflation is due to pressure build up deep underground, which then gets released during the eruption. In the Kilauea video, ten years of data (sped up into a minute-long movie) only covers one eruption cycle, while at Lone Star Geyser, each eruption cycle lasts roughly 3 hours! 
+
+When we zoom in on Kilauea's activity during the eruption in 2018, there is another kind of episodic behaviour that is revealed. The following video explores earthquakes at Kilauea's summit crater during the summer of 2018. What kinds of cycles can you see in this video? 
+
+#(2018 KILAUEA VID)
+{{< vimeo 368839934 >}}
+
+
