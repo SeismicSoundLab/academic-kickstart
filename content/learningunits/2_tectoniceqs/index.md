@@ -1,6 +1,6 @@
 ---
 title: 'Tectonic Earthquakes: Patterns in space and time'
-summary: Old catalog movies of California, Haiti, Tohoku, Sumatra
+summary: How do patterns of earthquakes vary on different plate boundaries?
 tags:
 - Earthquakes
 - Sonification
@@ -32,15 +32,33 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+First, plate motions (plate tectonics) on Earth is driven by the convection of the deep interior, or mantle. Here's a movie of convection over two billion years, BILLION!, sped up to play in 36 seconds:
 
-<!-- Insert vimeo video using its id -->
-{{< vimeo 215665951 >}}
+{{< vimeo 194834420 >}}
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+If we slow way down, we can look at and hear something like what those plates sound like as they grind past each other and cause earthquakes. To do so, we animate the data with sound, using these rules to generate these movies of ``earthquake catalogs'', or lists of earthquakes by location, date, magnitude, etc. 
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+{{< vimeo 153547572 >}} 
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Seven years of earthquakes in California:  
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+{{< vimeo 185877211 >}}
+
+Seven years of earthquakes in the Carribean (including the 2010 Haiti Earthquake):
+
+{{< vimeo 153547570 >}}
+
+Seven years of earthquakes in Japan (including the 2011 Tohoku Earthquake, Magnitude 9.0): 
+
+{{< vimeo 153547571 >}}
+
+and Seven years of earthquakes in Sumatra (including the 2004 Boxing Day earthquake, Magnitude 9.2): 
+
+{{< vimeo 185877229 >}}
+
+And in the Andes, as the Pacific plate subducts beneath Chile, in 3D (made by Martin Pratt): 
+
+{{< vimeo 236239313 >}}
+
+And the grand finale: 20 years of earthquakes on the whole planet (made by Joachim Gossmann): 
+{{< vimeo 153653264 >}}
