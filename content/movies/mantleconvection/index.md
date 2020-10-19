@@ -2,7 +2,7 @@
 # The title displays on the card
 title: "2 Billion Years of Plate Tectonics"
 # The summary displays on the card
-summary: "SHORT DESCRIPTION"
+summary: "Mantle convection drives plate motions"
 
 tags:
 - Plate Tectonics

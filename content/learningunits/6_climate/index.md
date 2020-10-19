@@ -1,6 +1,6 @@
 ---
 title: 'Climate Change'
-summary: Gianna and David's sonification of CO, methane and temperature data- class project-- and Owen's Hurricane Track Movie-- links to other people's movies?
+summary: What causes climate change and how do we perceive its effects?
 tags:
 - Climate
 - Hurricanes
@@ -11,7 +11,7 @@ date: "2020-10-16T02:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption:
   focal_point: Smart
 
 links:
@@ -32,30 +32,29 @@ url_video: ""
 slides: example
 ---
 
+Solar insolation is a measure of how much of the sun’s energy hits the Earth’s surface. This energy drives the climate and weather of our planet.
+The seasons are caused by the planet’s tilt--- half of the planet is closer to the sun in Summer than in Winter. However, solar insolation itself can vary on timescales from tens to hundreds of thousands of years, as a result of changes in the planet’s tilt and the shape of its orbit. Carbon Dioxide (CO2) and other atmospheric gases vary in time because complex interactions among processes in the oceans, atmosphere and biosphere (life) affect the amounts of these gases that are stored in the air, ocean, and on land. Here is a movie of the variations of solar insolation and CO_2 over the last 800 thousand years:
 
-<!-- Insert vimeo video using its id -->
-The solar insolation is a measure of how much of the sun's energy hits the Earth's surface. It varies through time because of changes in the Earth's orbit. Carbon dioxide (CO2) and other atmospheric gases vary in time as well, basically coupled through many complex processes in the oceans, atmosphere and biosphere. Here's CO2 data and insolation data for the last 800,000 years: 
- 
-{{< vimeo 467520934 >}}
+{{< vimeo 469625573 >}}
 
-As you can see and hear, something ridiculous happens right there at the end. 
-Humans figured out how to extract carbon in various forms and burn it. Energy density increases, and so does human usage. 
+As you can see and hear, something ridiculous happens right there at the end.
+Humans figured out how to extract carbon from the Earth's crust in various forms and burn it for heat and power, and rapidly expanded our societies around it. In a geologic instant, we have put far more CO2 in our atmosphere than has ever existed over the past 800,000 years.
 
-[include plot of various sources of human emissions of CO2.] 
- 
-We zoom in to the last 270 years: 
+[include plot of various sources of human emissions of CO2.]
+
+Now we zoom in to the last 270 years:
 
 {{< vimeo 467520973 >}}
 
+Zooming in on the last 270 years shows the scale of human carbon emissions, and the correlation between the levels of CO2 in the atmosphere and the yearly average global  temperatures. The difference between human emissions and atmospheric CO2 reflects how much carbon the oceans and biosphere can absorb, or buffer. We have diminished the capacity of the oceans and plants to absorb carbon in CO2, methane and other gases, increasing the strength of the greenhouse effect.
 
-The difference between human emissions and atmospheric CO2 reflects how much the oceans and biosphere can absorb, called a buffer. We are diminishing that capacity. 
+Feedbacks will emerge and changes in global weather patterns. While our best climate models incorporate an incredible level of complexity, we cannot fully predict what these changes will be, as the ocean/atmosphere/biosphere is still more complex than our most complex computer models.
 
-And you can see the average temperature rising as well. 
+Hurricanes are on the edge of that interface between weather and climate.
+Here is Owen Evans' movie, made in collaboration with Chia-ying Lee at LDEO:
 
-Feedbacks will emerge.. And changes in weather.. Hurricanes are on the edge of that interface between weather and climate. 
-
-Owen Evans' project in collaboration with Chia-ying Lee at LDEO: 
 {{< vimeo 287668309 >}}
 
-[put in a graph showing number and intensity of hurricanes in the last 20 years, and some predictions.] 
+2005 and 2017 had extremely large numbers of powerful hurricanes. In 2017, there was a storm so large that it blew past the highest category of 5. It broke apart into about 3 different very large hurricanes, Maria, Hugo and Irma. Because the movie is made from the category scale, our movie doesn't really show how large that storm system was, but as the climate warms, these kinds of things are likely to happen more often.
 
+[put in a graph showing number and intensity of hurricanes in the last 20 years, and some predictions.]
