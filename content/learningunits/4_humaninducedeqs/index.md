@@ -37,7 +37,11 @@ slides: example
 
 In some cases, hydrocarbon and geothermal heat extraction processes cause earthquakes. Listening to various settings where these occur clearly conveys the differences between human-induced and tectonic earthquakes, and raises many interesting societal questions.
 
-Wastewater from shale gas extraction by "fracking" is toxic enough that most states will not allow it to be stored or disposed of in-state. Oklahoma and Ohio permitted wastewater to be injected deep in the ground. The injection occurs at high pressure so that the fluid flow deep into some deep layer in the crust and will stay. However, the fluid encountered some old faults that hadnt moved in millions of years. The pressurized fluid reactivates these old faults and causes earthquakes where there hadn't been in our recorded history:  
+Wastewater from shale gas extraction by "fracking" is toxic enough that most states will not allow it to be stored or disposed of in-state. Oklahoma and Ohio permitted wastewater to be injected deep in the ground. The injection occurs at high pressure so that the fluid flow deep into some deep layer in the crust and will stay.
+
+[add crust block image here]
+
+However, the fluid encountered some old faults that haven't moved in millions of years. The pressurized fluid reactivates these old faults and causes earthquakes where there hadn't been in our recorded history:  
 
 {{< vimeo 186029718 >}}
 
@@ -45,7 +49,9 @@ While the earthquakes induced from injection of shale-gas extraction wastewater 
 
 However, the extraction of geothermal energy, a CO2-free resource, also produces earthquakes, but with minimal risk of groundwater contamination, and the scale is far smaller, in area and magnitude.
 
-Geysers geothermal field in Northern California:
+Here is a similar movie from The Geysers geothermal field in Northern California, the largest actively producing field in the world, generating about 800 MW of electricity: 
 {{< vimeo 259106314 >}}
 
-All energy production comes with costs and risks to society, but how do we focus our concerns on the proper ones.
+All energy production comes with costs and risks to society, but how do we focus our concerns on the proper ones?
+
+[more coming soon]
