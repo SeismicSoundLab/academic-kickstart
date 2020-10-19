@@ -1,6 +1,6 @@
 ---
 title: 'Human-induced earthquakes and Energy'
-summary: Oklahoma (fracking wastewater) and The Geysers (geothermal)-- relation between earthquakes and energy production methods and climate change.
+summary: How do we cause earthquakes and what do the mean in the context of energy sources?
 tags:
 - Earthquakes
 - Sonification
@@ -12,7 +12,7 @@ date: "2020-10-16T03:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption:
   focal_point: Smart
 
 links:
@@ -35,13 +35,17 @@ slides: example
 
 <!-- Insert vimeo video using its id -->
 
-Oklahoma
+In some cases, hydrocarbon and geothermal heat extraction processes cause earthquakes. Listening to various settings where these occur clearly conveys the differences between human-induced and tectonic earthquakes, and raises many interesting societal questions.
+
+Wastewater from shale gas extraction by "fracking" is toxic enough that most states will not allow it to be stored or disposed of in-state. Oklahoma and Ohio permitted wastewater to be injected deep in the ground. The injection occurs at high pressure so that the fluid flow deep into some deep layer in the crust and will stay. However, the fluid encountered some old faults that hadnt moved in millions of years. The pressurized fluid reactivates these old faults and causes earthquakes where there hadn't been in our recorded history:  
+
 {{< vimeo 186029718 >}}
 
+While the earthquakes induced from injection of shale-gas extraction wastewater in Oklahoma are dangerous, the potentially much greater health risk comes from the toxicity of the injected fluids leaking into aquifers.Because this concern is more abstract and uncertain than earthquakes, it is effective for opponents to focus on the earthquakes.
 
-Geysers geothermal field in Northern California: 
+However, the extraction of geothermal energy, a CO2-free resource, also produces earthquakes, but with minimal risk of groundwater contamination, and the scale is far smaller, in area and magnitude.
+
+Geysers geothermal field in Northern California:
 {{< vimeo 259106314 >}}
 
-
-
-
+All energy production comes with costs and risks to society, but how do we focus our concerns on the proper ones.

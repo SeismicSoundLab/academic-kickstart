@@ -1,6 +1,6 @@
 ---
 title: 'Geysers and Volcanoes: Scaling by Analogy'
-summary: Anna et al's Lone Star Geyser movie and Leif and my sonification of 10 years of Kilauea inflating-- and a little drawing.
+summary: What can we learn by comparing the dynamics of geysers and volcanoes?
 tags:
 - Earthquakes
 - Sonification
@@ -46,11 +46,9 @@ Geysers are often thought of as smaller scale analogs to volcanoes. Their ‘plu
 #(10 YR KILAUEA VID)
 {{< vimeo 288805184 >}}
 
-Did you notice the long term inflation of Kilauea's summit preceding the eruption? Like at Lone Star Geyser, this inflation is due to pressure build up deep underground, which then gets released during the eruption. In the Kilauea video, ten years of data (sped up into a minute-long movie) only covers one eruption cycle, while at Lone Star Geyser, each eruption cycle lasts roughly 3 hours! 
+Did you notice the long term inflation of Kilauea's summit preceding the eruption? Like at Lone Star Geyser, this inflation is due to pressure build up deep underground, which then gets released during the eruption. In the Kilauea video, ten years of data (sped up into a minute-long movie) only covers one eruption cycle, while at Lone Star Geyser, each eruption cycle lasts roughly 3 hours!
 
-When we zoom in on Kilauea's activity during the eruption in 2018, there is another kind of episodic behaviour that is revealed. The following video explores earthquakes at Kilauea's summit crater during the summer of 2018. What kinds of cycles can you see in this video? 
+When we zoom in on Kilauea's activity during the eruption in 2018, there is another kind of episodic behaviour that is revealed. The following video explores earthquakes at Kilauea's summit crater during the summer of 2018. What kinds of cycles can you see in this video?
 
 #(2018 KILAUEA VID)
 {{< vimeo 368839934 >}}
-
-
