@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 
+role:
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ldeo.columbia.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # interests:
 # - Artificial Intelligence
@@ -75,9 +75,6 @@ user_groups:
 ---
 
 We develop methods for translating data into sound and animations, to make movies about processes that are beyond our range of direct perception. Though we started with earthquakes, the lab activities have expanded well beyond "seismic" and "sound", but the name remains.
-The lab is based at [LDEO](http://www.ldeo.columbia.edu/) and the [Computer Music Center](https://cmc.music.columbia.edu/). 
-For more info, see the companion site at [seismicsoundlab.org](http://www.seismicsoundlab.org/), with info on our SeismoDome program at the Hayden Planetarium in NYC.  
-Run by [Ben Holtzman](https://www.ldeo.columbia.edu/~benh/), an incomplete list of collaborators includes [Jason Candler](https://www.guarsh.com/), [Douglas Repetto](http://douglasrepetto.com), [Anna Barth](https://barthac.github.io/), [Leif Karlstrom](https://pages.uoregon.edu/leif/) and the [Volcano Listening Project](http://www.volcanolisteningproject.org/), [Matt Turk](https://sites.google.com/site/matthewturk/), [Josh Russell](https://jbrussell.github.io/), [Seth Cluett](https://sethcluett.com/), [Joachim Gossmann](http://musicweb2.ucsd.edu/~jo/#intro), and many others!   
-For more backstory, see our old site, “[Sounds of Seismology](http://www.ldeo.columbia.edu/res/pi/sounds-of-seismology/)“. 
-In this site, we assemble a subset of movies we have made, and some "learning units": movies assembled into short narratives to illustrate and provoke questions. In the near future, it will also have code examples to help teach our methods. 
-
+The lab is based at [LDEO](http://www.ldeo.columbia.edu/) and the [Computer Music Center](https://cmc.music.columbia.edu/).  
+Run by [Ben Holtzman](https://www.ldeo.columbia.edu/~benh/), an incomplete list of collaborators includes [Jason Candler](https://www.guarsh.com/), [Douglas Repetto](http://douglasrepetto.com), Arthur Pate, [Anna Barth](https://barthac.github.io/), [Leif Karlstrom](https://pages.uoregon.edu/leif/) (and the [Volcano Listening Project](http://www.volcanolisteningproject.org/)), [Matt Turk](https://sites.google.com/site/matthewturk/), [Lapo Boschi](http://geo.geoscienze.unipd.it/users/boschi-lapo), [Josh Russell](https://jbrussell.github.io/), [Seth Cluett](https://sethcluett.com/), [Joachim Gossmann](http://musicweb2.ucsd.edu/~jo/#intro), [Vivian Trakinski](https://www.linkedin.com/in/vivian-trakinski-8023062/), and many more!   
+In this site, we assemble a subset of movies we have made, and some "learning units": movies assembled into short narratives to illustrate and provoke questions. In the near future, it will also have code examples to help teach our methods. For more info, see the companion site at [seismicsoundlab.org](http://www.seismicsoundlab.org/), with info on our SeismoDome program at the Hayden Planetarium in NYC. And for even more, see our first site, “[Sounds of Seismology](http://www.ldeo.columbia.edu/res/pi/sounds-of-seismology/)“. 
