@@ -18,7 +18,7 @@ movie_url: "https://player.vimeo.com/video/379787732"
 ---
 
 {{< vimeo 379787732 >}}
-
+by Anna Barth, Leif Karlstrom and Ben Holtzman, with Arthur Pate and Avinash Nayak, described in an article in press in the Computer Music Journal. 
 \
 
 
