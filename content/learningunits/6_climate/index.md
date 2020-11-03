@@ -33,9 +33,7 @@ slides: example
 ---
 
 Solar insolation is a measure of how much of the sun’s energy hits the Earth’s surface. This energy drives the climate and weather of our planet.
-# [changed:]
 The seasons are caused by the planet’s tilt— half of the planet gets more direct solar radiation in Summer than in Winter.  
-# However, solar insolation itself can vary on timescales from tens to hundreds of thousands of years, as a result of changes in the planet’s tilt and the shape of its orbit.
 However, solar insolation itself can vary on timescales from tens to hundreds of thousands of years, as a result of changes in the planet’s tilt, the wobble on its axis, and the shape of its orbit.
 Carbon Dioxide (CO2) and other atmospheric gases vary in time because complex interactions among processes in the oceans, atmosphere and biosphere (life) affect the amounts of these gases that are stored in the air, ocean, and on land. Here is a movie of the variations of solar insolation and CO2 over the last 800 thousand years:
 
@@ -51,7 +49,6 @@ Now we zoom in to the last 60 years:
 
 Zooming in on the last 60 years shows the scale of human carbon emissions, and the correlation between the levels of CO2 in the atmosphere and the yearly average global  temperatures. The difference between human emissions and atmospheric CO2 reflects how much carbon the oceans and biosphere can absorb, or buffer. We have diminished the capacity of the oceans and plants to absorb carbon in CO2, methane and other gases, increasing the strength of the greenhouse effect.
 
-#  Feedbacks will emerge and changes in global weather patterns.
 Feedbacks will emerge and cause changes in the climate system, leading to rising global temperatures and more frequent and intense extreme weather events.
 While our best climate models incorporate an incredible level of complexity, we cannot fully predict what these changes will be, as the ocean/atmosphere/biosphere is still more complex than our computer models.
 
