@@ -1,5 +1,5 @@
 ---
-title: 'Climate Change'
+title: 'Is Climate Change real'
 summary: What causes climate change and how do we perceive its effects?
 tags:
 - Climate
