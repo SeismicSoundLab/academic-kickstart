@@ -43,14 +43,14 @@ Wastewater from shale gas extraction by "fracking" is toxic enough that most sta
 
 However, the fluid encountered some old faults that haven't moved in millions of years. The pressurized fluid reactivates these old faults and causes earthquakes where there hadn't been in our recorded history:  
 
-{{< vimeo 186029718 >}}
+{{< vimeo 644949109 >}}
 
 While the earthquakes induced from injection of shale-gas extraction wastewater in Oklahoma are dangerous, the potentially much greater health risk comes from the toxicity of the injected fluids leaking into aquifers.Because this concern is more abstract and uncertain than earthquakes, it is effective for opponents to focus on the earthquakes.
 
 However, the extraction of geothermal energy, a CO2-free resource, also produces earthquakes, but with minimal risk of groundwater contamination, and the scale is far smaller, in area and magnitude.
 
 Here is a similar movie from The Geysers geothermal field in Northern California, the largest actively producing field in the world, generating about 800 MW of electricity: 
-{{< vimeo 259106314 >}}
+{{< vimeo 578487217 >}}
 
 All energy production comes with costs and risks to society, but how do we focus our concerns on the proper ones?
 
